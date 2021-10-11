@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="MyVM" createEmptyFolders="true" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="MyVM">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/os/GoProject/lab1-mapreduce" local="$PROJECT_DIR$/../../testSSh" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

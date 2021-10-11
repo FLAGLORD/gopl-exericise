@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="99a50fd3-df4f-42e1-a921-478198156287" name="MyVM" url="http://127.0.0.1">
+        <fileTransfer rootFolder="/home/os/GoProject/lab1-mapreduce" accessType="SFTP" host="localhost" port="22" sshConfigId="f3c81758-f2d7-4941-8713-adf6478690cb" sshConfig="MyVM">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
